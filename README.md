@@ -20,11 +20,5 @@
 
 <br>
 
-# ❤️ Last but not least
-
-Feel free to contribute..... >_<
-
-<br>
-
 <p align="center">
 <img src="https://thumbs.gfycat.com/UnsightlyLoneGeese-max-1mb.gif"/></p>
