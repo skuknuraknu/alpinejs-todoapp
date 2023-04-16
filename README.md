@@ -7,9 +7,9 @@
 # 👇 Feature :
 - [x] create todo
 - [x] delete todo
-- [ ] organizing the code
-- [ ] edit todo
-- [ ] filter todo 
+- [x] edit todo
+- [x] filter todo
+- [ ] organizing the code 
 
 <br>
 
