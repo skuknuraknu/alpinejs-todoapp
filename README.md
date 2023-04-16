@@ -14,9 +14,9 @@
 <br>
 
 # 👇 How to install :
-👉 clone this repo ` git clone https://github.com/skuknuraknu/alpinejs-todoapp/ ` <br>
-👉 run npm install <br>
-👉 run local development server with php ` php -S localhost:8080 ` <br>
+- clone this repo ` git clone https://github.com/skuknuraknu/alpinejs-todoapp/ ` <br>
+- run npm install <br>
+- run local development server with php ` php -S localhost:8080 ` <br>
 
 <br>
 
