@@ -1,4 +1,7 @@
 
+<p align="center">
+<img src="https://media.tenor.com/kLSciCe9OP4AAAAC/patrick-star-spongebob.gif"/></p>
+
 # Alpine.js Todoapp
 `Todo App` yang dibangun menggunakan library alpine.js
 
@@ -19,6 +22,3 @@
 - run local development server with php ` php -S localhost:8080 ` <br>
 
 <br>
-
-<p align="center">
-<img src="https://thumbs.gfycat.com/UnsightlyLoneGeese-max-1mb.gif"/></p>
