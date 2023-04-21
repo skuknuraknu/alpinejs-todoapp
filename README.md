@@ -3,7 +3,7 @@
 <img src="https://media.tenor.com/kLSciCe9OP4AAAAC/patrick-star-spongebob.gif"/></p>
 
 # Alpine.js Todoapp
-`Todo App` yang dibangun menggunakan library alpine.js
+`Todo App` with alpinejs
 
 <br>
 
